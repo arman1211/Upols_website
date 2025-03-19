@@ -1,0 +1,41 @@
+h1 {
+  color: brown;
+  font-style: italic;
+  font-size: 90px;
+  text-align: center;
+}
+
+.top-description {
+  background-color: aquamarine;
+  width: 200px;
+  height: 200px;
+  margin-left: 60px;
+  margin-top: 50px;
+  padding: 20px;
+  border: 3px solid red;
+  border-radius: 50px;
+}
+
+.green-section {
+  width: 400px;
+  height: 200px;
+  background-color: green;
+  margin-left: 200px;
+}
+
+.red-section {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  border-radius: 50%;
+  margin-top: -150px;
+  margin-left: 350px;
+}
+
+.bambo {
+  background-color: rgb(64, 7, 7);
+  width: 30px;
+  height: 500px;
+  margin-left: 170px;
+  margin-top: -150px;
+}
